@@ -1,0 +1,7 @@
+D:\Salekin\SaveDirectory\LeastCommonAncestor\LeastCommonAncestor\obj\Debug\LeastCommonAncestor.csprojResolveAssemblyReference.cache
+D:\Salekin\SaveDirectory\LeastCommonAncestor\LeastCommonAncestor\obj\Debug\LeastCommonAncestor.csproj.CoreCompileInputs.cache
+D:\Salekin\SaveDirectory\LeastCommonAncestor\LeastCommonAncestor\bin\Debug\LeastCommonAncestor.exe.config
+D:\Salekin\SaveDirectory\LeastCommonAncestor\LeastCommonAncestor\bin\Debug\LeastCommonAncestor.exe
+D:\Salekin\SaveDirectory\LeastCommonAncestor\LeastCommonAncestor\bin\Debug\LeastCommonAncestor.pdb
+D:\Salekin\SaveDirectory\LeastCommonAncestor\LeastCommonAncestor\obj\Debug\LeastCommonAncestor.exe
+D:\Salekin\SaveDirectory\LeastCommonAncestor\LeastCommonAncestor\obj\Debug\LeastCommonAncestor.pdb
